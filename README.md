@@ -40,16 +40,11 @@ Feel free to explore my work, and don't hesitate to reach out — I'm always see
 </p>
 
 <p>
-<h3>Testing & Linting:</h1>
-  <a href="#"><img src="https://matimortari.github.io/assets/stack/playwright.png" alt="Playwright" width="30" height="30" title="Playwright"/></a>&nbsp;
-  <a href="#"><img src="https://matimortari.github.io/assets/stack/vitest.png" alt="Vitest" width="30" height="30" title="Vitest"/></a>&nbsp;
-  <a href="#"><img src="https://matimortari.github.io/assets/stack/eslint.png" alt="ESLint" width="30" height="30" title="ESLint"/></a>
-</p>
-
-<p>
   <h3>Tools:</h1>
   <a href="#"><img src="https://matimortari.github.io/assets/stack/visual-studio-code.png" alt="Visual Studio Code" width="30" height="30" title="Visual Studio Code"/></a>&nbsp;
   <a href="#"><img src="https://matimortari.github.io/assets/stack/postman.png" alt="Postman" width="30" height="30" title="Postman"/></a>&nbsp;
+  <a href="#"><img src="https://matimortari.github.io/assets/stack/eslint.png" alt="ESLint" width="30" height="30" title="ESLint"/></a>&nbsp;
+  <a href="#"><img src="https://matimortari.github.io/assets/stack/playwright.png" alt="Playwright" width="30" height="30" title="Playwright"/></a>&nbsp;
   <a href="#"><img src="https://matimortari.github.io/assets/stack/git.png" alt="Git" width="30" height="30" title="Git"/></a>&nbsp;
   <a href="#"><img src="https://matimortari.github.io/assets/stack/github.png" alt="GitHub" width="30" height="30" title="GitHub"/></a>
 </p>
