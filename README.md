@@ -18,41 +18,41 @@ Feel free to explore my work, and don't hesitate to reach out — I'm always see
 
 <p>
 <h3>Programming Languages:</h1>
-  <a href="#"><img src="https://matimortari.github.io/assets/stack/typescript.png" alt="TypeScript" width="30" height="30" title="TypeScript"/></a>&nbsp;
-  <a href="#"><img src="https://matimortari.github.io/assets/stack/go.png" alt="Go" width="30" height="30" title="Go"/></a>&nbsp;
-  <a href="#"><img src="https://matimortari.github.io/assets/stack/python.png" alt="Python" width="30" height="30" title="Python"/></a>
+  <a href="#"><img src="https://matimortari.github.io/assets/misc/stack/typescript.png" alt="TypeScript" width="30" height="30" title="TypeScript"/></a>&nbsp;
+  <a href="#"><img src="https://matimortari.github.io/assets/misc/stack/go.png" alt="Go" width="30" height="30" title="Go"/></a>&nbsp;
+  <a href="#"><img src="https://matimortari.github.io/assets/misc/stack/python.png" alt="Python" width="30" height="30" title="Python"/></a>
 </p>
 
 <p>
 <h3>Web Development:</h1>
-  <a href="#"><img src="https://matimortari.github.io/assets/stack/react.png" alt="React" width="30" height="30" title="React"/></a>&nbsp;
-  <a href="#"><img src="https://matimortari.github.io/assets/stack/next-js.png" alt="Next.js" width="30" height="30" title="Next.js"/></a>&nbsp;
-  <a href="#"><img src="https://matimortari.github.io/assets/stack/react-query.png" alt="React Query" width="30" height="30" title="React Query"/></a>&nbsp;
-  <a href="#"><img src="https://matimortari.github.io/assets/stack/tailwind-css.png" alt="Tailwind CSS" width="30" height="30" title="Tailwind CSS"/></a>&nbsp;
-  <a href="#"><img src="https://matimortari.github.io/assets/stack/shadcn-ui.png" alt="ShadCN/UI" width="30" height="30" title="ShadCN/UI"/></a>
+  <a href="#"><img src="https://matimortari.github.io/assets/misc/stack/react.png" alt="React" width="30" height="30" title="React"/></a>&nbsp;
+  <a href="#"><img src="https://matimortari.github.io/assets/misc/stack/next-js.png" alt="Next.js" width="30" height="30" title="Next.js"/></a>&nbsp;
+  <a href="#"><img src="https://matimortari.github.io/assets/misc/stack/react-query.png" alt="React Query" width="30" height="30" title="React Query"/></a>&nbsp;
+  <a href="#"><img src="https://matimortari.github.io/assets/misc/stack/tailwind-css.png" alt="Tailwind CSS" width="30" height="30" title="Tailwind CSS"/></a>&nbsp;
+  <a href="#"><img src="https://matimortari.github.io/assets/misc/stack/shadcn-ui.png" alt="ShadCN/UI" width="30" height="30" title="ShadCN/UI"/></a>
 </p>
 
 <p>
 <h3>Backend & Database:</h1>
-  <a href="#"><img src="https://matimortari.github.io/assets/stack/node-js.png" alt="Node.js" width="30" height="30" title="Node.js"/></a>&nbsp;
-  <a href="#"><img src="https://matimortari.github.io/assets/stack/postgresql.png" alt="PostgreSQL" width="30" height="30" title="PostgreSQL"/></a>&nbsp;
-  <a href="#"><img src="https://matimortari.github.io/assets/stack/prisma.png" alt="Prisma" width="30" height="30" title="Prisma"/></a>
+  <a href="#"><img src="https://matimortari.github.io/assets/misc/stack/node-js.png" alt="Node.js" width="30" height="30" title="Node.js"/></a>&nbsp;
+  <a href="#"><img src="https://matimortari.github.io/assets/misc/stack/postgresql.png" alt="PostgreSQL" width="30" height="30" title="PostgreSQL"/></a>&nbsp;
+  <a href="#"><img src="https://matimortari.github.io/assets/misc/stack/prisma.png" alt="Prisma" width="30" height="30" title="Prisma"/></a>
 </p>
 
 <p>
   <h3>Tools:</h1>
-  <a href="#"><img src="https://matimortari.github.io/assets/stack/visual-studio-code.png" alt="Visual Studio Code" width="30" height="30" title="Visual Studio Code"/></a>&nbsp;
-  <a href="#"><img src="https://matimortari.github.io/assets/stack/postman.png" alt="Postman" width="30" height="30" title="Postman"/></a>&nbsp;
-  <a href="#"><img src="https://matimortari.github.io/assets/stack/eslint.png" alt="ESLint" width="30" height="30" title="ESLint"/></a>&nbsp;
-  <a href="#"><img src="https://matimortari.github.io/assets/stack/playwright.png" alt="Playwright" width="30" height="30" title="Playwright"/></a>&nbsp;
-  <a href="#"><img src="https://matimortari.github.io/assets/stack/git.png" alt="Git" width="30" height="30" title="Git"/></a>&nbsp;
-  <a href="#"><img src="https://matimortari.github.io/assets/stack/github.png" alt="GitHub" width="30" height="30" title="GitHub"/></a>
+  <a href="#"><img src="https://matimortari.github.io/assets/misc/stack/visual-studio-code.png" alt="Visual Studio Code" width="30" height="30" title="Visual Studio Code"/></a>&nbsp;
+  <a href="#"><img src="https://matimortari.github.io/assets/misc/stack/postman.png" alt="Postman" width="30" height="30" title="Postman"/></a>&nbsp;
+  <a href="#"><img src="https://matimortari.github.io/assets/misc/stack/eslint.png" alt="ESLint" width="30" height="30" title="ESLint"/></a>&nbsp;
+  <a href="#"><img src="https://matimortari.github.io/assets/misc/stack/playwright.png" alt="Playwright" width="30" height="30" title="Playwright"/></a>&nbsp;
+  <a href="#"><img src="https://matimortari.github.io/assets/misc/stack/git.png" alt="Git" width="30" height="30" title="Git"/></a>&nbsp;
+  <a href="#"><img src="https://matimortari.github.io/assets/misc/stack/github.png" alt="GitHub" width="30" height="30" title="GitHub"/></a>
 </p>
 
 <p>
   <h3>Cloud Platforms:</h1>
-  <a href="#"><img src="https://matimortari.github.io/assets/stack/vercel.png" alt="Vercel" width="30" height="30" title="Vercel"/></a>&nbsp;
-  <a href="#"><img src="https://matimortari.github.io/assets/stack/supabase.png" alt="Supabase" width="30" height="30" title="Supabase"/></a>&nbsp;
-  <a href="#"><img src="https://matimortari.github.io/assets/stack/sonarcloud.png" alt="SonarCloud" width="30" height="30" title="SonarCloud"/></a>
+  <a href="#"><img src="https://matimortari.github.io/assets/misc/stack/vercel.png" alt="Vercel" width="30" height="30" title="Vercel"/></a>&nbsp;
+  <a href="#"><img src="https://matimortari.github.io/assets/misc/stack/supabase.png" alt="Supabase" width="30" height="30" title="Supabase"/></a>&nbsp;
+  <a href="#"><img src="https://matimortari.github.io/assets/misc/stack/sonarcloud.png" alt="SonarCloud" width="30" height="30" title="SonarCloud"/></a>
 </p>
 </div>
